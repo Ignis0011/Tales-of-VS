@@ -48,7 +48,7 @@ u32 fsize
 
 ## Hacker Note 4
 1. RSSA files contains `*.tm2` files which are essentialy PSP `*.gim` and are images/textures. ssad's are "map" files that track the proper position of images when rendered.
-2. I won't be doing much to these, as using in TextER is easier, and hopefully the resulting replacements are lesser in size than the original.
+2. I won't be doing much to these, as using TextER is easier, and hopefully the resulting replacements are lesser in size than the original, else a proper tool will be made -_-.
 3. Format are as follows;
 ```
 Header:
