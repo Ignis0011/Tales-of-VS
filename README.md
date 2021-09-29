@@ -52,8 +52,8 @@ u32 fsize
 3. Format are as follows;
 ```
 Header:
-u32 magic `RSSA`
-str fname `40 bytes`
+u32 magic "RSSA"
+str fname "40 bytes"
 u16 ssad_enum
 u16 tm2_enum
 ```
