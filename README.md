@@ -62,5 +62,5 @@ u16 tm2_enum
 Thanks to `Tales of ABCDE` for hosting the project  
 Thanks to `Fistinguranus / Pegi` and `Bugs` for all the structuralization, support, and preliminary translations.
 
-## Tools
+## Third-Party Tools
 http://www.romhacking.net/utilities/659/
