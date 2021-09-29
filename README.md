@@ -20,7 +20,7 @@ u32 enum
 
 Table:
 u32 id
-u32 unknown "flags?"
+u32 flags
 u32 toffset
 u32 tsize 
 ```
