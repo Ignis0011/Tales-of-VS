@@ -2,6 +2,8 @@
 
 An attempt to create an English patch for Tales of VS (Versus).
 
+![ToVS](https://raw.githubusercontent.com/Ignis0011/Tales-of-VS/main/proj_logo.png)
+
 Discord: https://discord.gg/tmDgBDNPpE
 
 Spreadsheet: https://docs.google.com/spreadsheets/d/1fYuy52kEaBRSI5-GOqvuJNegd3w4O75ixesAI7vPAiA/edit?usp=sharing
