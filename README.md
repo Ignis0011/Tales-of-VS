@@ -9,7 +9,7 @@ Discord: https://discord.gg/tmDgBDNPpE
 Spreadsheet: https://docs.google.com/spreadsheets/d/1fYuy52kEaBRSI5-GOqvuJNegd3w4O75ixesAI7vPAiA/edit?usp=sharing
 
 ## Hacker Note 1
-1. Any and all strings are stored in `\*.msd` files.
+1. Any and all strings are stored in `\*.msd` files and UTF-16-LE encoded.
 2. Format are as follows;
 
 ```
@@ -20,7 +20,7 @@ u32 enum
 
 Table:
 u32 id
-u32 unknown "flags"
+u32 unknown "flags?"
 u32 toffset
 u32 tsize 
 ```
@@ -53,7 +53,7 @@ u32 fsize
 ```
 Header:
 u32 magic "RSSA"
-str fname "40 bytes"
+str fname "40-byte file name"
 u16 ssad_enum
 u16 tm2_enum
 ```
